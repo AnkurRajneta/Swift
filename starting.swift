@@ -1,12 +1,11 @@
+let score = 10
+let highscore=score+10
+let finalscore=score/2
 
-var name="Ted"
-name="Rebecca"
+var counter = 10
+counter += 5
 
-let user="Daphne"
-print(user)
+let number = 120
+print(number.isMultiple(of:3))
 
-let actor="Tom Cruise 😎"
-let quote="He tapped a sign saying\"Believe\"and walked away."
-print(actor.count)
-print(quote.hasPrefix("He"))
-print(quote.hasSuffix("Away."))
+
